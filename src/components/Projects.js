@@ -21,17 +21,17 @@ const Projects = () => {
         const projects = [
             {
               title: "Portfolio",
-              description: "Design & Development of my personal portfolio",
+              description: "Design & Development of My personal portfolio using React js",
               imgUrl: portfolio,
-              imgSite: "https://aee-admin.netlify.app/",
-              gitSite:"",
+              imgSite: "https://lanreabassportfolio.netlify.app/",
+              gitSite:"https://github.com/abassakeem/lanreabassportfolio",
             },
             {
               title: "Portfolio",
-              description: "Design & Development of my personal portfolio",
+              description: "Design & Development of a portfolio using React js",
               imgUrl: portfolio2,
-              imgSite: "https://aee-admin.netlify.app/",
-              gitSite:"",
+               imgSite: "https://abassportfolio.netlify.app/",
+              gitSite:"https://github.com/abassakeem/portfolio",
             },
             {
               title: "Business Startup",
